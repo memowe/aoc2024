@@ -38,3 +38,8 @@ executable day03_2
   import:         basics
   main-is:        solution_2.hs
   hs-source-dirs: 03_Mull_it_over
+
+executable day04_1
+  import:         basics
+  main-is:        solution_1.hs
+  hs-source-dirs: 04_Ceres_search
