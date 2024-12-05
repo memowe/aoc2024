@@ -53,3 +53,8 @@ executable day05_1
   import:         basics
   main-is:        solution_1.hs
   hs-source-dirs: 05_Print_queue
+
+executable day05_2
+  import:         basics
+  main-is:        solution_2.hs
+  hs-source-dirs: 05_Print_queue
