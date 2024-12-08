@@ -73,3 +73,8 @@ executable day07_1
   import:         basics
   main-is:        solution_1.hs
   hs-source-dirs: 07_Bridge_repair
+
+executable day07_2
+  import:         basics
+  main-is:        solution_2.hs
+  hs-source-dirs: 07_Bridge_repair
