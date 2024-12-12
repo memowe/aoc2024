@@ -103,3 +103,8 @@ executable day10_1
   import:         basics
   main-is:        solution_1.hs
   hs-source-dirs: 10_Hoof_it
+
+executable day10_2
+  import:         basics
+  main-is:        solution_2.hs
+  hs-source-dirs: 10_Hoof_it
