@@ -7,7 +7,14 @@ common basics
   default-language:   Haskell2010
   default-extensions: TupleSections, DeriveGeneric
   ghc-options:        -Wall
-  build-depends:      base, containers, mtl, extra, lens, array, MemoTrie, unordered-containers
+  build-depends:      base
+                    , extra
+                    , containers
+                    , unordered-containers
+                    , array
+                    , mtl
+                    , lens
+                    , MemoTrie
 
 executable day01_1
   import:         basics
