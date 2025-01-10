@@ -135,3 +135,8 @@ executable day12_1
   import:         basics
   main-is:        solution_1.hs
   hs-source-dirs: 12_Garden_groups
+
+executable day12_2
+  import:         basics
+  main-is:        solution_2.hs
+  hs-source-dirs: 12_Garden_groups
